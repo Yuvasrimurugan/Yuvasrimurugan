@@ -37,8 +37,7 @@ Based in Tiruchirappalli, Tamil Nadu, India. I build REST API based applications
 
 | Project | What it does | Tech |
 |---|---|---|
-| [**Scalable AI Resume Builder**](https://github.com/Yuvasrimurugan/REPO-NAME) |AI Resume Builder is a **production-ready and scalable, open-source resume and CV generator** designed for job seekers, students, and professionals who want polished, ATS-optimized resumes without signup or cost.
-| Java | 21 LTS , Spring Boot , Spring Data JPA , Spring Validation , H2 Database , Flyway, Lombok , MapStruct , Swagger / OpenAPI , JUnit 5 | 
+| [**Scalable AI Resume Builder**](https://github.com/Yuvasrimurugan/REPO-NAME) |AI Resume Builder is a **production-ready and scalable, open-source resume and CV generator** designed for job seekers, students, and professionals who want polished, ATS-optimized resumes without signup or cost.|Java | 21 LTS , Spring Boot , Spring Data JPA , Spring Validation , H2 Database , Flyway, Lombok , MapStruct , Swagger / OpenAPI , JUnit 5 | 
 | [**AI Resume Builder**](https://github.com/Yuvasrimurugan/REPO-NAME) | Full-stack web app that generates resumes, calculates ATS scores and recommends jobs in real time. Reached 50+ real users and cut manual effort by 70%+. | Node.js, MongoDB, JavaScript, NLP, OpenRouter API |
 | [**Traffic Analysis using Computer Vision**](https://github.com/Yuvasrimurugan/REPO-NAME) | Detects and counts vehicles in traffic video with 90-95% accuracy. | Python, OpenCV, YOLOv8, SORT |
 | [**Student Registration Management System**](https://github.com/Yuvasrimurugan/REPO-NAME) | Desktop app with CRUD operations for student records. | Java, JDBC, MySQL, Swing |
